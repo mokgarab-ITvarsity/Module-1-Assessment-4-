@@ -1,0 +1,23 @@
+h1{color: cornflowerblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table{
+    border-collapse: collapse;
+    background-color: #7db8f0;
+    color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-color: blue;    
+}
+th{
+    padding-left: 8px;
+    padding: 2px;
+    background-color: blue;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+}
+td{
+    font-family: 'Courier New', Courier, monospace;
+}
